@@ -1,6 +1,6 @@
 # RetroRail: IRCTC Booking Calculator
 
-[aureliabutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Fdubeysh18-sys%2Fretrorail-irctc-booking-calculator3)
 
 RetroRail is a highly polished, retro-themed Advance Reservation Period (ARP) calculator for Indian Railways (IRCTC). Blending the nostalgic aesthetic of 90s web design with modern React performance, this utility calculates the exact date and time train tickets open for booking—exactly 60 days prior to the journey date at 08:00 AM IST.
 
@@ -73,7 +73,7 @@ This project is optimized for deployment on Cloudflare via Aurelia.
 
 You can deploy your own version of this tool instantly using the button below:
 
-[aureliabutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Fdubeysh18-sys%2Fretrorail-irctc-booking-calculator3)
 
 ### Manual Deployment
 
