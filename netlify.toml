@@ -2,8 +2,8 @@
   # Build command
   command = "bun run build"
   
-  # Directory with the build output
-  publish = "dist"
+  # Directory with the build output (Cloudflare plugin outputs to dist/client)
+  publish = "dist/client"
 
 # Redirect all requests to index.html for SPA routing (React Router)
 [[redirects]]
